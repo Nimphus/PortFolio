@@ -13,6 +13,6 @@ $myName="Inès Romdhane";
     <title><?=$myName?> - Accueil</title>
 </head>
 <body>
-    
+    <h2>Hello world</h2>
 </body>
 </html>
